@@ -45,8 +45,8 @@ const Sidebar=()=>{
                 
             </div>
             <div>
-                <div className="w-full text-center bg-gray-300  font-semibold py-3">View Cart</div>
-                <div className="w-full text-center bg-black text-white mt-2  font-semibold py-3">Checkout</div>
+                <div className="w-full text-center bg-gray-300  font-semibold py-3">VIEW CART</div>
+                <div className="w-full text-center bg-black text-white mt-2  font-semibold py-3">CHECKOUT</div>
             </div>
         </div>
        

@@ -10,10 +10,10 @@ const Hero=()=>{
   
         <div  className='flex items-center gap-1'>
         <div className='w-10 h-[2px] bg-red-500'></div> 
-            <div className='uppercase font-semibold'>New Trend</div>
+            <div className='uppercase font-semibold'>NEW TREND</div>
         </div>
         <div>
-            <h1 className='text-black uppercase text-6xl mb-3 font-light'>autman sale stylish</h1>
+            <h1 className='text-black uppercase text-6xl mb-3 font-light'>AUTMAN SALE STYLISH</h1>
    
             <h1 className='text-6xl font-bold mb-5'>WOMENS</h1>
       <Link to={'/'}>
